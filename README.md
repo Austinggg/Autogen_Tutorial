@@ -3,8 +3,8 @@
 ## Environment Setup
 
 ```cmd
-conda create -n pyautogen python=3.10
-conda activate pyautogen
+conda create -n autogen python=3.10
+conda activate autogen
 pip install requirements.txt
 ```
 
