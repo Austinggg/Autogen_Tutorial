@@ -10,6 +10,10 @@ pip install requirements.txt
 
 需自行配置 `.env`，参考[0-Client](./0-Client.ipynb)
 
+```
+OPENAI_API_KEY=sk-sdahdsadkjdhkh
+```
+
 教程中所演示的资源都放在 `./resources` 中,(将加入多模态数据~)
 
 
