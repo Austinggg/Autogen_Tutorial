@@ -32,5 +32,7 @@ OPENAI_API_KEY=sk-sdahdsadkjdhkh
 | [8-Memory.ipynb](./8-Memory.ipynb)        | 记忆机制与 RAG 检索增强                  |
 | [9-Monitor.ipynb](./9-Monitor.ipynb)      | 日志监控与调试                           |
 
-> 注：如有新章节或文件，可按需补
+
+---
+持续更新中~
 
