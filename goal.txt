@@ -1,0 +1,11 @@
+## 该教程整体规划 TODO
+
+教程实现目标：从 AutoGen 出发，构建 Autogen 的实操学习详细**中文教程**（NoteBook，要求均能一键运行）; 进一步，整理与当前 实用技术相关的 Autogen 实操项目，作为多智能体应用入门实战演练；过程中不断整理添加除 Autogen 以外的 MAS 框架的教程和实战项目；最终成为一个全面且不断维护更新的 **多智能体开发入门教程（中英文）**，帮助快速入门多智能体开发。
+
+
+- Version 0.5：基于现版本 AutoGen （0.9.0）基础用法汇整（粗糙版）
+- Version 1.0：基于现版本 AutoGen （0.9.0）基础用法汇整（精修，中文）
+- Version 2.0：整理足够多数量的 Autogen 实战项目（要求包含 MCP,RAG，KG等）
+- Version 3.0: 整理大于三种主流的 MAS 框架
+
+实现目标参考：https://github.com/datawhalechina/self-llm
