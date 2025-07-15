@@ -22,8 +22,8 @@ OPENAI_API_KEY=sk-sdahdsadkjdhkh
 | 文件/章节                                 | 内容简介                                 |
 |-------------------------------------------|------------------------------------------|
 | [0-Client.ipynb](./0-Client.ipynb)        | LLM Client 配置与使用方法                |
-| [1-Agent.ipynb](./1-Agent.ipynb)          | 智能体（Agent）基础与进阶                |
-| [2-Conversation.ipynb](./2-Conversation.ipynb) | 多智能体对话与协作                  |
+| [1-Message.ipynb](./1-Messages.ipynb)          | 多智能体对话与协作                |
+| [2-Agent.ipynb](./2-Agent.ipynb) | 智能体（Agent）基础与进阶                  |
 | [3-Teams.ipynb](./3-Teams.ipynb)          | 多智能体团队与协作机制                   |
 | [4-HumanInTheLoop.ipynb](./4-HumanInTheLoop.ipynb) | 人类反馈与交互流程                |
 | [5-Termination.ipynb](./5-Termination.ipynb) | 任务终止条件与流程控制                |
