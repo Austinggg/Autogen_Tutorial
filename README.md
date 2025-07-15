@@ -5,7 +5,7 @@
 ```cmd
 conda create -n autogen python=3.10
 conda activate autogen
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 需自行配置 `.env`，参考[0-Client](./0-Client.ipynb)
