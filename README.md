@@ -31,7 +31,7 @@ OPENAI_API_KEY=sk-sdahdsadkjdhkh
 | [7-Workflow.ipynb](./7-Workflow.ipynb)    | 工作流与复杂流程编排                     |
 | [8-Memory.ipynb](./8-Memory.ipynb)        | 记忆机制与 RAG 检索增强                  |
 | [9-Monitor.ipynb](./9-Monitor.ipynb)      | 日志监控与调试                           |
-
+| [10-Baseclass.ipynb](./10-Baseclass_for_custom.ipynb)      | Autogen的基类分析                           |
 
 ---
 持续更新中~
